@@ -21,7 +21,7 @@
 
 ### 개발기간
 - 약 7일(168시간)
-- 교육(4일) + 개발(3일)   
+- 교육(3일) + 개발(4+α일)
 ※ 교육 : Numpy, OpenCV(Image Capture/Resize/Scaling, Object/Color Detection), Yolov5, GPIO 포트 제어, Crawling 등등
 
 <br/>
