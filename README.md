@@ -26,7 +26,8 @@
 
 <br/>
 
-> 👉 프로그램 구성 및 개발에 대한 자세한 내용은 Repository에 업로드된 ppt 참고
+> 👉 프로그램 구성 및 개발에 대한 자세한 내용은 repository에 첨부된 『[Project(Result).pptx](https://github.com/Min-su-Jeong/2022_Development_CV_System_Project/tree/main/Presentation)』 파일 참고
+
 
 <br/>
 
