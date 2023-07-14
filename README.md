@@ -28,6 +28,11 @@
 
 > 👉 프로그램 구성 및 개발에 대한 자세한 내용은 repository에 첨부된 『[Project(Result).pptx](https://github.com/Min-su-Jeong/2022_Development_CV_System_Project/tree/main/Presentation)』 파일 참고
 
+<br/>
+
+## Paper
+- M. Jeong, J. Si, S. Lee, M. Kim, and S. Kim, "Crop Disease Diagnosis System based on Pan-Tilt HAT For Smart Farm", Proc. Of Korean Institute of Information Technology Conference, Vol.17, No.1, pp.311-312, Jun. 2022.
+- [Paper Link](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11082533)
 
 <br/>
 
